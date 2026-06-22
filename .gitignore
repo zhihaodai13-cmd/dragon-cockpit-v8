@@ -83,7 +83,7 @@ verify_*.py
 !.claude/skills/**
 
 # ignore static files
-static/
+# static/  (unignored: prebuilt frontend for deploy)
 /apps/dsa-desktop/dist/
 /apps/dsa-desktop/node_modules/
 docs/specs/
